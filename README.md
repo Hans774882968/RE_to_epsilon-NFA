@@ -225,19 +225,19 @@ class MyGraph():
 a*.(b+c).(d+e)+(g*+f*).b*+(a*+b+c)+(b+c*+d)+(d*+e+f)
 ```
 
-![a幂.(b+c).(d+e)+(g幂+f幂).b幂+(a幂+b+c)+(b+c幂+d)+(d幂+e+f)](C:\python\python更深研究\53：RE转epsilon-nfa\a幂.(b+c).(d+e)+(g幂+f幂).b幂+(a幂+b+c)+(b+c幂+d)+(d幂+e+f).png)
+![a幂.(b+c).(d+e)+(g幂+f幂).b幂+(a幂+b+c)+(b+c幂+d)+(d幂+e+f)](./a幂.(b+c).(d+e)+(g幂+f幂).b幂+(a幂+b+c)+(b+c幂+d)+(d幂+e+f).png)
 
 ```python
 a*.b*.c*+b.c.a+c*.a*.b+d*.(e*+f*)+(g*+h*).i
 ```
 
-![a幂.b幂.c幂+b.c.a+c幂.a幂.b+d幂.(e幂+f幂)+(g幂+h幂).i](C:\python\python更深研究\53：RE转epsilon-nfa\a幂.b幂.c幂+b.c.a+c幂.a幂.b+d幂.(e幂+f幂)+(g幂+h幂).i.png)
+![a幂.b幂.c幂+b.c.a+c幂.a幂.b+d幂.(e幂+f幂)+(g幂+h幂).i](./a幂.b幂.c幂+b.c.a+c幂.a幂.b+d幂.(e幂+f幂)+(g幂+h幂).i.png)
 
 ```python
 (a+b)*+(c+d+e)*
 ```
 
-![(a+b)幂+(c+d+e)幂](C:\python\python更深研究\53：RE转epsilon-nfa\(a+b)幂+(c+d+e)幂.png)
+![(a+b)幂+(c+d+e)幂](./(a+b)幂+(c+d+e)幂.png)
 
 
 
